@@ -72,7 +72,7 @@ section {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    overflow:hidden;
+    overflow-x:hidden;
 }
 
 .logo {
@@ -162,6 +162,7 @@ nav {
     transform: translate(-50%, -50%);
     color: whitesmoke;
     text-transform: capitalize;
+    overflow-x:hidden;
 }
 
 .home-info.hide {
