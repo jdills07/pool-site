@@ -72,6 +72,7 @@ section {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    overflow:hidden;
 }
 
 .logo {
