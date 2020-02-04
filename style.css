@@ -60,7 +60,7 @@ img {
 }
 
 section {
-    overflow: hidden;
+    overflow-y: hidden;
 }
 
 /*----------------------------HOME--SECTION-----------------------------------*/
